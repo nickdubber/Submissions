@@ -1,1 +1,1 @@
-# Submissions
+Full Stack Open submissions. 
